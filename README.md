@@ -1,8 +1,10 @@
 PIHOLE + UNBOUND + TLS
 
-create doocker image locally running sh build-local.sh 
+very easy:
 
-1) create the stack in portainer
-2) load variables inn portainner loading .env file
+1)create docker image locally running sh build-local.sh in the pihole-unbound directory
 
-new versions of Portaners do not have problems with the creation oof volumes
+2) create the stack in portainer
+3) load variables in portainner loading .env file
+
+new versions of Portaners do not have problems with the creation of volumes
